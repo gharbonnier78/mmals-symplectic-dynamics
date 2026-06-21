@@ -1,0 +1,17 @@
+./CHANGELOG.md
+./CITATION.cff
+./LICENSE
+./MANIFEST.txt
+./MMALS_Symplectic_Dynamics_v0.1.0.pdf
+./Makefile
+./README.md
+./diderot/entry.json
+./diderot/entry.md
+./docs/GITHUB_INFO.md
+./docs/REVIEW_CHECKLIST.md
+./magazine/chapter.md
+./magazine/chapter.tex
+./paper/main.pdf
+./paper/main.tex
+./paper/references.bib
+./scripts/update_diderot.py

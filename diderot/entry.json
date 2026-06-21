@@ -1,0 +1,29 @@
+{
+  "id": "symplectic-transport-dissipative-learning",
+  "title": "Symplectic Transport and Dissipative Learning",
+  "subtitle": "A geometric basement for adaptive MMALS host networks",
+  "category": "Dynamics and Control",
+  "status": "research-foundation",
+  "version": "0.1.0",
+  "summary": "Unitary quantum dynamics can be represented as a special orthogonal-symplectic flow. MMALS uses the broader insight more cautiously: symplectic geometry transports structured state, port-Hamiltonian dissipation stabilizes and consolidates it, Fisher--Rao geometry updates beliefs, and goal-conditioned control allocates resources.",
+  "key_equation": "dZ/dt = [J(Z,c,m,g)-R(Z,c,m,g)] grad H + B(Z,theta,c,m,g)u",
+  "claims": [
+    "Unitary evolution embeds in the orthogonal-symplectic subgroup.",
+    "A larger transformation group is not by itself a complexity advantage.",
+    "Pure symplectic flow cannot provide forgetting or attractor-based consolidation.",
+    "Fisher--Rao and symplectic geometry play complementary roles.",
+    "MMALS action must be competence-aware, not coverage-only."
+  ],
+  "mmals_links": [
+    "inferred-context-routing",
+    "geometry-mmalls",
+    "stable-plastic-context-memory",
+    "goal-adaptive-control",
+    "mmals-cal",
+    "tput"
+  ],
+  "evidence_status": "Theoretical synthesis grounded in prior MMALS evidence; dedicated symplectic MMALS experiments pending.",
+  "paper": "paper/main.pdf",
+  "source": "paper/main.tex",
+  "tags": ["symplectic", "port-Hamiltonian", "Fisher-Rao", "energy", "control", "continual-learning", "MMALS"]
+}
