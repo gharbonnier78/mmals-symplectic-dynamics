@@ -4,6 +4,12 @@
 
 This repository contains an arXiv-style theory paper that connects the quantum--symplectic realification discussed by Igor Volovich with the current MMALS research program. It reframes symplectic computation as a geometric and control-theoretic layer rather than claiming an unconditional advantage over quantum computing.
 
+<p align="center">
+  <a href="./MMALS_Symplectic_Dynamics_v0.1.0.pdf">
+    <img src="https://img.shields.io/badge/Open-Article-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open PDF">
+  </a>
+</p>
+
 ## Contents
 
 - `paper/main.tex` - complete article source
